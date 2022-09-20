@@ -1,0 +1,2 @@
+# check_my_ip_with_cloudflare
+利用cloudflare的pages或1.1.1.1地址获取自己的广域网出口ip地址
